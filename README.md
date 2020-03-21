@@ -13,4 +13,5 @@ After cloning the project, import it into your android studio. Then build it and
 
 ## License
 
-OCP_StudyBuddy is released under the GNU GPLv3
+OCP_StudyBuddy is released under GNU GPLv3 (see [LICENSE](LICENSE)).
+Some of the used libraries are released under different licenses.
