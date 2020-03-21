@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">OCP_StudyBuddy</string>
+
+    <!-- START SCREEN -->
+    <string name="start_button">Let\'s get Learning</string>
+    <string name="title">OCP 8 - Exam Buddy</string>
+
+    <!-- Sample that needs to go into JSON or DB -->
+    <string name="side_a">What is Java</string>
+    <string name="side_b">Java is a programming language</string>
 </resources>
